@@ -1,0 +1,4 @@
+INPUT_FILE = input.txt
+OUTPUT_FILE = output.txt
+EXECUTOR = ru.spbstu.rot13.PipelineExecutor = configROT13_code.txt
+BUFF_SIZE = 100

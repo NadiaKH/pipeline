@@ -1,0 +1,7 @@
+INPUT_FILE = input.txt
+OUTPUT_FILE = output.txt
+EXECUTOR = ru.spbstu.rot13.PipelineExecutor = configROT13_code.txt
+EXECUTOR = ru.spbstu.executor.EKExecutor = ek.conf
+EXECUTOR = ru.spbstu.executor.EKExecutor = ek.conf
+EXECUTOR = ru.spbstu.rot13.PipelineExecutor = configROT13_decode.txt
+BUFF_SIZE = 100
