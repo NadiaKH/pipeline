@@ -1,0 +1,4 @@
+EXECUTOR = ru.spbstu.rot13.PipelineExecutor = configROT13_code.txt
+EXECUTOR = ru.spbstu.frozen.FrozenExecutor = frozen_config.txt
+EXECUTOR = ru.spbstu.frozen.FrozenExecutor = frozen_config.txt
+EXECUTOR = ru.spbstu.rot13.PipelineExecutor = configROT13_decode.txt
